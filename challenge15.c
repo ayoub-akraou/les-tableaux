@@ -47,6 +47,5 @@ int main()
     for (size_t i = 0; i < longeur3; i++)
     {
         printf("%i\n", tableau3[i]);
-    }
-    
+    } 
 }
